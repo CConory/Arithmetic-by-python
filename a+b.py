@@ -22,4 +22,3 @@ class Solution:
         return a+b;
 gg=Solution()
 print(gg.aplusb_1(2**64,2**64))
-print ("gg")
